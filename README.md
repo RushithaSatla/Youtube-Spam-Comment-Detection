@@ -70,10 +70,10 @@ cd youtube-spam-detection
 ## **Project Structure**  
 ```
 youtube-spam-comment-detection/  
-├── youtube_spam_detection.py  # Main script   
-├── datasets/                  # Folder for input CSV files  
-├── non_spam_comments.csv      # Output file with cleaned comments  
-└── README.md                  # Project description  
+├── youtube_spam_detection.py  
+├── datasets/                 
+├── non_spam_comments.csv     
+└── README.md                 
 
 ```  
 
