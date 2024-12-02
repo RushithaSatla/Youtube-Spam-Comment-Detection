@@ -19,10 +19,13 @@ This project is a machine learning-based system to detect spam comments on YouTu
 - Python 3.x  
 - Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`  
 
-Install the required libraries using:  
-```bash
-pip install -r requirements.txt
-```  
+Install the below required libraries:  
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.7.2
+scikit-learn==1.2.2
+
+
 
 ### Clone the Repository  
 ```bash
@@ -71,6 +74,7 @@ youtube-spam-comment-detection/
 ├── datasets/                  # Folder for input CSV files  
 ├── non_spam_comments.csv      # Output file with cleaned comments  
 └── README.md                  # Project description  
+
 ```  
 
 ---
@@ -83,4 +87,3 @@ This project is open-source and available under the [MIT License](https://openso
 
 --- 
 
-Let me know if you want to customize this further! 🚀
